@@ -8,6 +8,26 @@ potenciar decisiones con Data Analytics.
 
 ---
 
+### Herramientas de Automatización
+- **Postman** 
+- **RestAssured**
+- **JMeter** 
+- **Gherkin** 
+- **Selenium WebDriver** 
+
+### Frameworks
+- **Cucumber** 
+- **JUnit**
+
+### Lenguajes de programación
+- **Java** (Lenguaje principal de automatización de pruebas)
+- **Python**
+- **R** (Análisis de datos)
+- **C#**
+- **SQL**
+
+---
+
 ## 💻 Proyectos
 
 ### 1. Proyecto: Automatización de pruebas banca ficticia
@@ -34,25 +54,6 @@ potenciar decisiones con Data Analytics.
 **Descripción:** Validación de pruebas parametrizadas para agregar y completar tareas.  
 **Tecnologías utilizadas:** Java, JUnit, Hamcrest, Maven.  
 **Código fuente:** [Repositorio en GitHub](https://github.com/4551146/parameterized-test-tdd)
-
----
-### Herramientas de Automatización
-- **Postman** 
-- **RestAssured**
-- **JMeter** 
-- **Gherkin** 
-- **Selenium WebDriver** 
-
-### Frameworks
-- **Cucumber** 
-- **JUnit**
-
-### Lenguajes de programación
-- **Java** (Lenguaje principal de automatización de pruebas)
-- **Python**
-- **R** (Análisis de datos)
-- **C#**
-- **SQL**
 
 ---
 
