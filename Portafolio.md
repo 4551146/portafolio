@@ -28,9 +28,9 @@ potenciar decisiones con Data Analytics.
 
 ---
 
-## 💻 Proyectos
+## 💻 Proyectos de actividades
 
-### 1. Proyecto: Automatización de pruebas banca ficticia
+### 1. Proyecto:  Automatización de pruebas banca ficticia
 **Descripción:** Validación de flujo login, consulta saldo y transferencia en sitio "https://bco-selenium.netlify.app".  
 **Tecnologías utilizadas:** Java, Selenium WebDriver, JUnit, Maven.  
 **Código fuente:** [Repositorio Banca ficticia bco Selenium](https://github.com/4551146/banca-ficticia-bco-selenium)
@@ -54,6 +54,13 @@ potenciar decisiones con Data Analytics.
 **Descripción:** Validación de pruebas parametrizadas para agregar y completar tareas.  
 **Tecnologías utilizadas:** Java, JUnit, Hamcrest, Maven.  
 **Código fuente:** [Repositorio Pruebas parametrizadas](https://github.com/4551146/parameterized-test-tdd)
+
+---
+
+### 5. Proyecto: Validación de Historias de Usuario Clínicas con Cucumber
+**Descripción:** Validación de inicio de sesión y llenado de formulario ficha clínica (Exitoso y fallido) utilizando Scenario Outline y DataTable aplicando enfoque BDD.  
+**Tecnologías utilizadas:** Cucumber, Gherkin, Java, Selenium WebDriver, JUnit, Maven.
+**Código fuente:** [Repositorio Pruebas parametrizadas](https://github.com/4551146/cucumber-ficha-clinica)
 
 ---
 
